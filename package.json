@@ -1,0 +1,19 @@
+{
+  "name": "liri-nodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noeljcruz/Liri-NodeApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noeljcruz/Liri-NodeApp/issues"
+  },
+  "homepage": "https://github.com/noeljcruz/Liri-NodeApp#readme"
+}
